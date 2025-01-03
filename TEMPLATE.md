@@ -14,12 +14,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ljubinkovicdj93&theme=swift&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=ljubinkovicdj93&theme=swift&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
-- I've joined GitHub {{ ACCOUNT_AGE }} years ago, and have since:
-  - pushed {{ COMMITS }} commits
-  - opened {{ ISSUES }} issues
-  - submitted {{ PULL_REQUESTS }} pull requests
-  - received {{ STARS }} stars across {{ REPOSITORIES }} personal projects
-  - contributed to {{ REPOSITORIES_CONTRIBUTED_TO }} public repositories
+- I've joined GitHub **{{ ACCOUNT_AGE }}** years ago, and have since:
+  - pushed **{{ COMMITS }}** commits
+  - opened **{{ ISSUES }}** issues
+  - submitted **{{ PULL_REQUESTS }}** pull requests
+  - received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects
+  - contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories
  
 ## Personal Projects
 
