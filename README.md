@@ -15,7 +15,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=ljubinkovicdj93&theme=swift&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
 - I've joined GitHub **5** years ago, and have since:
-  - pushed **268** commits
+  - pushed **270** commits
   - opened **2** issues
   - submitted **22** pull requests
   - received **2** stars across **18** personal projects
